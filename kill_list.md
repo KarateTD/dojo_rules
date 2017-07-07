@@ -8,3 +8,5 @@ Kill List
 * Not enough comments
 * No author information
 * this sucks
+* this is bull shit
+
